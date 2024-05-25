@@ -26,3 +26,5 @@
 | [Royal Cyber](../Interview_Questions_Based_On_Companies/RoyalCyber.md)                 | https://www.royalcyber.com/   | https://pk.linkedin.com/company/royal-cyber-inc-       | AI, Development, Cloud                                           |
 | [Folio3](../Interview_Questions_Based_On_Companies/Folio3.md)                          | https://folio3.com/           | https://pk.linkedin.com/company/folio3                 | Development, AI, Health, Cloud, Ecommerce                        |
 | [CureMD](../Interview_Questions_Based_On_Companies/CureMD.md)                          | https://www.curemd.com/       | https://www.linkedin.com/company/curemd                | Care, Health, AI                                                 |
+| [Xeven Solution](../Interview_Questions_Based_On_Companies/Xeven.md)                   | https://www.xevensolutions.com/ | https://www.linkedin.com/company/xevensolutions       | Development, AI, Devops, Digital Marketing
+
