@@ -29,3 +29,5 @@
 | [i2c](../Interview_Questions_Based_On_Companies/i2c.md)                                | https://careers.i2cinc.com/careers/ | https://www.linkedin.com/company/i2c-inc/?originalSubdomain=pk | Fintech, Development, Data Science                               |
 | [Cogent Labs](../Interview_Questions_Based_On_Companies/CogentLabs.md)                 | https://cogentlabs.co/              | https://www.linkedin.com/company/cogentlabs/                   | Development, Data Science                                        |
 | [Xeven Solution](../Interview_Questions_Based_On_Companies/Xeven.md)                   | https://www.xevensolutions.com/     | https://www.linkedin.com/company/xevensolutions                | Development, AI, Devops, Digital Marketing                       |
+| [CarbonTeq](../Interview_Questions_Based_On_Companies/CarbonTeq.md)
+         | https://www.carbonteq.com/          | https://pk.linkedin.com/company/carbonteq                      | Remote Teams, E-Commerce Application, Web Design, UI/UX, Hybrid App development, Web App Development, Mobile App Development, Strategic Partnership, and startup consulting
